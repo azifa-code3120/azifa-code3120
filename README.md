@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey there! 👋 I'm Azifa Thaslim P
 
-<!--
-**azifa-code3120/azifa-code3120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | Aspiring Software Developer
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! 🤎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a student passionate about technology, programming, and building useful applications. I'm continuously learning and improving my development skills through practical projects.
+
+## 💻 Technical Skills
+
+- **Programming Languages:** Java, C++, PHP
+- **Web Technologies:** HTML, CSS
+- **Database:** MySQL
+- **Tools:** VS Code, XAMPP, Git, GitHub
+
+## 🚀 Featured Project
+
+### Digital Internship Management System
+
+A web-based application designed to manage student internship activities.
+
+- Student registration and login
+- Internship application
+- Internship status tracking
+- Internship report management
+
+🔗 [View Project Repository](https://github.com/azifa-code3120/digital-internship-management-system)
+
+## 🌱 Currently Learning
+
+- Python programming
+- Data Structures and Algorithms
+- Full Stack Development
+
+## 🎯 My Goal
+
+To become a skilled software developer by learning consistently and building real-world projects.
+
+---
+
+*Building my way into tech, one step at a time.* ✨
